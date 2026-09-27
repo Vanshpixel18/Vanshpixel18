@@ -1,20 +1,16 @@
+### Hi, I'm Vansh 👋
 
-- **Deploy it**: Repo → Settings → Pages → Branch: `main` → Save. A live demo link makes any project look 10x more legit.
+I'm a developer working on web technologies — currently building out projects with HTML/CSS/JS.
 
-## 4. Pin Your Repos
+- 🔭 Currently working on: IWT_Assignment
+- 🌱 Currently learning: [React / Python / whatever's true]
+- 💬 Ask me about: HTML, CSS, JavaScript
+- 📫 Reach me: [your email or LinkedIn]
 
-On your profile → **Customize your pins** → pin IWT_Assignment (and future projects).
+### Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 5. Build Real Activity Going Forward
-
-- Push **small, frequent commits** rather than one giant upload — the graph fills naturally
-- Add 2–3 more small projects (portfolio site, to-do app, calculator) — each in its own repo with a README + live demo
-- Star repos you actually use, follow devs you learn from
-
-## ⚠️ What to Avoid
-
-- **Fake contribution generators** — empty green squares or graph-hacking tools are obvious to anyone who checks, and it reads as dishonest
-- Leaving repos with **no README** — an empty repo looks worse than no repo
-- Copying someone else's README word-for-word with their name still in it (very common mistake — customize everything)
-
-The single highest-impact thing you can do **right now** is step 2 — the profile README instantly makes a new account look intentional. Want me to customize the README template with your actual skills/links if you share them?
+### GitHub Stats
+![Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vanshpixel18&show_icons=true&theme=radical)
